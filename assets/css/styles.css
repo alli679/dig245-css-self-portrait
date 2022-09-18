@@ -2,9 +2,28 @@
 /* css */
 .head {
   background-color: #E1B89B;
+  position: relative;
+}
+
+#upper-head {
   height: 275px;
   left: 270px;
-  position: relative;
   top: 347px;
   width: 315px;
+}
+
+#left-jaw {
+  height: 177.9;
+  left: 270.12px;
+  top: 71.62px;
+  transform: rotate(0.125turn);
+  width: 71.24px;
+}
+
+#right-jaw {
+  height: 176.63px;
+  left: 535px;
+  top: 121.5px;
+  transform: rotate(0.875turn);
+  width: 71.1px;
 }
