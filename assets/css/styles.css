@@ -7,7 +7,7 @@
   top: 333px;
   width: 315px;
   height: 275px;
-  z-index: 1;
+  z-index: 5;
 }
 
 #left-jaw {
@@ -18,7 +18,7 @@
   width: 71.1px;
   height: 178.7px;
   transform: rotate(0.875turn);
-  z-index: 3;
+  z-index: 6;
 }
 
 #right-jaw {
@@ -29,7 +29,7 @@
   width: 71.1px;
   height: 178.7px;
   transform: rotate(0.125turn);
-  z-index: 4;
+  z-index: 7;
 }
 
 #chin {
@@ -37,6 +37,28 @@
   position: absolute;
   left: 364px;
   top: 701px;
+  width: 64px;
+  height: 34px;
+  z-index: 8;
+}
+
+#left-eyelid {
+  background-color: #E1B89B;
+  border-radius: 62px;
+  position: absolute;
+  left: 253px;
+  top: 333px;
+  width: 64px;
+  height: 34px;
+  z-index: 1;
+}
+
+#right-eyelid {
+  background-color: #E1B89B;
+  border-radius: 62px;
+  position: absolute;
+  left: 415px;
+  top: 333px;
   width: 64px;
   height: 34px;
   z-index: 2;
@@ -49,7 +71,7 @@
   top: 402px;
   width: 86px;
   height: 115px;
-  z-index: 5;
+  z-index: 3;
 }
 
 #right-eyesquare {
@@ -59,7 +81,7 @@
   top: 402px;
   width: 86px;
   height: 115px;
-  z-index: 6;
+  z-index: 4;
 }
 
 #mouth-interior {
