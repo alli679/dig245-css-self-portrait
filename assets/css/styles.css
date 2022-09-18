@@ -100,10 +100,13 @@ h1 {
   z-index: 10;
 }
 
+.pupils {
+  text-align: center;
+  color: white;
+}
+
 #left-pupil {
   background-color: #402D1F;
-  color: white;
-  text-align: center;
   left: 317px;
   top: 447px;
   width: 33px;
@@ -113,8 +116,6 @@ h1 {
 
 #right-pupil {
   background-color: #402D1F;
-  color: white;
-  text-align: center;
   left: 441px;
   top: 447px;
   width: 33px;
