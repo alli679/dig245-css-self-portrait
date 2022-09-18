@@ -12,7 +12,6 @@
 
 #left-jaw {
   background-color: #E1B89B;
-  box-shadow: -10px 0px 5px 0px grey;
   position: absolute;
   left: 290.77px;
   top: 557px;
@@ -24,7 +23,6 @@
 
 #right-jaw {
   background-color: #E1B89B;
-  box-shadow: 10px 0px 5px 0px grey;
   position: absolute;
   left: 430px;
   top: 557px;
