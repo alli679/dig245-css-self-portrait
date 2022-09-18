@@ -6,7 +6,7 @@
   left: 238px;
   top: 333px;
   width: 315px;
-  height: 275px;
+  height: 225px;
   z-index: 9;
 }
 
@@ -40,6 +40,16 @@
   width: 64px;
   height: 34px;
   z-index: 6;
+}
+
+#hair {
+  background-color: black;
+  position: absolute;
+  left: 238px;
+  top: 277px;
+  width: 315px;
+  height: 56px;
+  z-index: 1;
 }
 
 #left-eyelid {
@@ -106,6 +116,26 @@
   width: 33px;
   height: 41px;
   z-index: 12;
+}
+
+#nose {
+  background-color: #E1B89B;
+  border-color: black;
+  border-radius: 35.5px;
+  position: absolute;
+  left: 359px;
+  top: 523px;
+  width: 74px;
+  height: 71px;
+}
+
+#nose-covering {
+  background-color: #E1B89B;
+  position: absolute;
+  left: 238px;
+  top: 558px;
+  width: 315px;
+  height: 50px;
 }
 
 #mouth-interior {
