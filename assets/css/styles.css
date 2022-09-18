@@ -50,7 +50,7 @@
   top: 333px;
   width: 124px;
   height: 124px;
-  z-index: 17;
+  z-index: 15;
 }
 
 #right-eyelid {
@@ -61,7 +61,7 @@
   top: 333px;
   width: 124px;
   height: 124px;
-  z-index: 16;
+  z-index: 14;
 }
 
 #left-eyesquare {
@@ -71,7 +71,7 @@
   top: 402px;
   width: 86px;
   height: 115px;
-  z-index: 13;
+  z-index: 11;
 }
 
 #right-eyesquare {
@@ -81,6 +81,26 @@
   top: 402px;
   width: 86px;
   height: 115px;
+  z-index: 10;
+}
+
+#left-pupil {
+  background-color: #402D1F;
+  position: absolute;
+  left: 317px;
+  top: 447px;
+  width: 33px;
+  height: 41px;
+  z-index: 13;
+}
+
+#right-pupil {
+  background-color: #402D1F;
+  position: absolute;
+  left: 441px;
+  top: 447px;
+  width: 33px;
+  height: 41px;
   z-index: 12;
 }
 
