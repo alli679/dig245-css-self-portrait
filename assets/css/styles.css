@@ -1,29 +1,29 @@
 
 /* css */
-.head {
-  background-color: #E1B89B;
-  position: relative;
-}
-
 #upper-head {
-  height: 275px;
-  left: 270px;
-  top: 347px;
+  background-color: #E1B89B;
+  position: absolute;
+  left: 238px;
+  top: 333px;
   width: 315px;
+  height: 275px;
 }
 
 #left-jaw {
-  height: 177.9;
-  left: 270.12px;
-  top: 71.62px;
-  transform: rotate(0.125turn);
-  width: 71.24px;
+  background-color: #E1B89B;
+  position: absolute;
+  left: 290.77px;
+  top: 557px;
+  width: 71.1px;
+  height: 178.7px;
 }
 
 #right-jaw {
-  height: 176.63px;
-  left: 535px;
-  top: 121.5px;
-  transform: rotate(0.875turn);
+  background-color: #E1B89B;
+  position: absolute;
+  left: 430px;
+  top: 557px;
   width: 71.1px;
+  height: 178.7px;
+  transform: rotate(0.125turn);
 }
