@@ -4,8 +4,13 @@
   position: absolute;
 }
 
-h1, #description {
+h1 {
   position: fixed;
+}
+
+#description {
+  top: 50px;
+  width: 1000px;
 }
 
 #upper-head {
