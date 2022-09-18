@@ -12,6 +12,7 @@
 
 #left-jaw {
   background-color: #E1B89B;
+  box-shadow: 0px 10px 5px grey;
   position: absolute;
   left: 290.77px;
   top: 557px;
@@ -23,6 +24,7 @@
 
 #right-jaw {
   background-color: #E1B89B;
+  box-shadow: 0px 10px 5px grey;
   position: absolute;
   left: 430px;
   top: 557px;
@@ -34,7 +36,7 @@
 
 #chin {
   background-color: #E1B89B;
-  box-shadow: 0px 10px grey;
+  box-shadow: 0px 10px 5px grey;
   position: absolute;
   left: 364px;
   top: 701px;
