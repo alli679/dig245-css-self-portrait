@@ -50,3 +50,13 @@
   width: 140px;
   height: 87px;
 }
+
+#tongue {
+  background-color: #942424;
+  border-radius: 30.5px;
+  position: absolute;
+  left: 360px;
+  top: 626px;
+  width: 71px;
+  height: 69px;
+}
