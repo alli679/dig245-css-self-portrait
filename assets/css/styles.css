@@ -7,6 +7,7 @@
   top: 333px;
   width: 315px;
   height: 275px;
+  z-index: 4;
 }
 
 #left-jaw {
@@ -17,6 +18,7 @@
   width: 71.1px;
   height: 178.7px;
   transform: rotate(0.875turn);
+  z-index: 3;
 }
 
 #right-jaw {
@@ -27,6 +29,7 @@
   width: 71.1px;
   height: 178.7px;
   transform: rotate(0.125turn);
+  z-index: 2;
 }
 
 #chin {
@@ -36,13 +39,14 @@
   top: 701px;
   width: 64px;
   height: 34px;
+  z-index: 1;
 }
 
 #mouth-interior {
-  background-color: 000000;
+  background-color: black;
   position: absolute;
   left: 326px;
   top: 608px;
   width: 140px;
-  height: 87;
+  height: 87px;
 }
