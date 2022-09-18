@@ -4,6 +4,10 @@
   position: absolute;
 }
 
+h1, #description {
+  position: fixed;
+}
+
 #upper-head {
   background-color: #E1B89B;
 
@@ -181,7 +185,7 @@
 #right-ear {
   background-color: #E1B89B;
   border-radius: 33px;
-  
+
   left: 539px;
   top: 426px;
   width: 66px;
