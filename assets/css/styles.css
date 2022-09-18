@@ -7,7 +7,7 @@
   top: 333px;
   width: 315px;
   height: 275px;
-  z-index: 6;
+  z-index: 1;
 }
 
 #left-jaw {
@@ -18,7 +18,7 @@
   width: 71.1px;
   height: 178.7px;
   transform: rotate(0.875turn);
-  z-index: 5;
+  z-index: 2;
 }
 
 #right-jaw {
@@ -49,7 +49,7 @@
   top: 402px;
   width: 86px;
   height: 115px;
-  z-index: 2;
+  z-index: 5;
 }
 
 #right-eyesquare {
@@ -59,7 +59,7 @@
   top: 402px;
   width: 86px;
   height: 115px;
-  z-index: 1;
+  z-index: 6;
 }
 
 #mouth-interior {
