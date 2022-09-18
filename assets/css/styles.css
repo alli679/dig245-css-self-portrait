@@ -37,3 +37,12 @@
   width: 64px;
   height: 34px;
 }
+
+#mouth-interior {
+  background-color: 000000;
+  position: absolute;
+  left: 326px;
+  top: 608px;
+  width: 140px;
+  height: 87;
+}
