@@ -28,3 +28,12 @@
   height: 178.7px;
   transform: rotate(0.125turn);
 }
+
+#chin {
+  background-color: #E1B89B;
+  position: absolute;
+  left: 364px;
+  top: 701px;
+  width: 64px;
+  height: 34px;
+}
