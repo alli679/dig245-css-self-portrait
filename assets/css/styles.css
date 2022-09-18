@@ -42,6 +42,24 @@
   z-index: 1;
 }
 
+#left-eyesquare {
+  background-color: white;
+  position: absolute;
+  left: 291px;
+  top: 402px;
+  width: 86px;
+  height: 115px;
+}
+
+#right-eyesquare {
+  background-color: white;
+  position: absolute;
+  left: 415px;
+  top: 402px;
+  width: 86px;
+  height: 115px;
+}
+
 #mouth-interior {
   background-color: black;
   position: absolute;
