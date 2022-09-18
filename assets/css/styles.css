@@ -160,3 +160,25 @@
   height: 69px;
   z-index: 3;
 }
+
+#left-ear {
+  background-color: #E1B89B;
+  border-radius: 33px;
+  position: absolute;
+  left: 182px;
+  top: 426px;
+  width: 66px;
+  height: 125.67px;
+  transform: rotate(0.56turn);
+}
+
+#right-ear {
+  background-color: #E1B89B;
+  border-radius: 33px;
+  position: absolute;
+  left: 539px;
+  top: 426px;
+  width: 66px;
+  height: 125.67px;
+  transform: rotate(0.44turn);
+}
