@@ -103,6 +103,7 @@ h1 {
 .pupils {
   text-align: center;
   color: white;
+  top: 447px;
 }
 
 #left-pupil {
@@ -162,11 +163,14 @@ h1 {
   z-index: 3;
 }
 
+.ears {
+  top: 426px;
+}
+
 #left-ear {
   background-color: #E1B89B;
   border-radius: 33px;
   left: 182px;
-  top: 426px;
   width: 66px;
   height: 125.67px;
   transform: rotate(0.44turn);
@@ -176,7 +180,6 @@ h1 {
   background-color: #E1B89B;
   border-radius: 33px;
   left: 539px;
-  top: 426px;
   width: 66px;
   height: 125.67px;
   transform: rotate(0.56turn);
