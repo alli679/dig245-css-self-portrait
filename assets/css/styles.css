@@ -1,8 +1,12 @@
 
 /* css */
+* {
+  position: absolute;
+}
+
 #upper-head {
   background-color: #E1B89B;
-  position: absolute;
+
   left: 238px;
   top: 333px;
   width: 315px;
@@ -12,7 +16,7 @@
 
 #left-jaw {
   background-color: #E1B89B;
-  position: absolute;
+
   left: 290.77px;
   top: 557px;
   width: 71.1px;
@@ -23,7 +27,7 @@
 
 #right-jaw {
   background-color: #E1B89B;
-  position: absolute;
+
   left: 430px;
   top: 557px;
   width: 71.1px;
@@ -34,7 +38,7 @@
 
 #chin {
   background-color: #E1B89B;
-  position: absolute;
+
   left: 364px;
   top: 701px;
   width: 64px;
@@ -44,7 +48,7 @@
 
 #hair {
   background-color: black;
-  position: absolute;
+
   left: 238px;
   top: 277px;
   width: 315px;
@@ -55,7 +59,7 @@
 #left-eyelid {
   background-color: #E1B89B;
   border-radius: 62px;
-  position: absolute;
+
   left: 253px;
   top: 333px;
   width: 124px;
@@ -66,7 +70,7 @@
 #right-eyelid {
   background-color: #E1B89B;
   border-radius: 62px;
-  position: absolute;
+
   left: 415px;
   top: 333px;
   width: 124px;
@@ -77,7 +81,7 @@
 #left-eyesquare {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
-  position: absolute;
+
   left: 291px;
   top: 402px;
   width: 86px;
@@ -88,7 +92,7 @@
 #right-eyesquare {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
-  position: absolute;
+
   left: 415px;
   top: 402px;
   width: 86px;
@@ -100,7 +104,7 @@
   background-color: #402D1F;
   color: white;
   text-align: center;
-  position: absolute;
+
   left: 317px;
   top: 447px;
   width: 33px;
@@ -112,7 +116,7 @@
   background-color: #402D1F;
   color: white;
   text-align: center;
-  position: absolute;
+
   left: 441px;
   top: 447px;
   width: 33px;
@@ -124,7 +128,7 @@
   background-color: #E1B89B;
   border: 3px solid black;
   border-radius: 35.5px;
-  position: absolute;
+
   left: 359px;
   top: 523px;
   width: 74px;
@@ -134,7 +138,7 @@
 
 #nose-covering {
   background-color: #E1B89B;
-  position: absolute;
+
   left: 238px;
   top: 558px;
   width: 315px;
@@ -144,7 +148,7 @@
 
 #mouth-interior {
   background-color: black;
-  position: absolute;
+
   left: 326px;
   top: 608px;
   width: 140px;
@@ -155,7 +159,7 @@
 #tongue {
   background-color: #942424;
   border-radius: 35.5px;
-  position: absolute;
+
   left: 360px;
   top: 626px;
   width: 71px;
@@ -166,7 +170,7 @@
 #left-ear {
   background-color: #E1B89B;
   border-radius: 33px;
-  position: absolute;
+
   left: 182px;
   top: 426px;
   width: 66px;
@@ -177,7 +181,7 @@
 #right-ear {
   background-color: #E1B89B;
   border-radius: 33px;
-  position: absolute;
+  
   left: 539px;
   top: 426px;
   width: 66px;
