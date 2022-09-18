@@ -15,7 +15,6 @@ h1 {
 
 #upper-head {
   background-color: #E1B89B;
-
   left: 238px;
   top: 333px;
   width: 315px;
@@ -25,7 +24,6 @@ h1 {
 
 #left-jaw {
   background-color: #E1B89B;
-
   left: 290.77px;
   top: 557px;
   width: 71.1px;
@@ -36,7 +34,6 @@ h1 {
 
 #right-jaw {
   background-color: #E1B89B;
-
   left: 430px;
   top: 557px;
   width: 71.1px;
@@ -47,7 +44,6 @@ h1 {
 
 #chin {
   background-color: #E1B89B;
-
   left: 364px;
   top: 701px;
   width: 64px;
@@ -57,7 +53,6 @@ h1 {
 
 #hair {
   background-color: black;
-
   left: 238px;
   top: 277px;
   width: 315px;
@@ -68,7 +63,6 @@ h1 {
 #left-eyelid {
   background-color: #E1B89B;
   border-radius: 62px;
-
   left: 253px;
   top: 333px;
   width: 124px;
@@ -79,7 +73,6 @@ h1 {
 #right-eyelid {
   background-color: #E1B89B;
   border-radius: 62px;
-
   left: 415px;
   top: 333px;
   width: 124px;
@@ -90,7 +83,6 @@ h1 {
 #left-eyesquare {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
-
   left: 291px;
   top: 402px;
   width: 86px;
@@ -101,7 +93,6 @@ h1 {
 #right-eyesquare {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
-
   left: 415px;
   top: 402px;
   width: 86px;
@@ -113,7 +104,6 @@ h1 {
   background-color: #402D1F;
   color: white;
   text-align: center;
-
   left: 317px;
   top: 447px;
   width: 33px;
@@ -125,7 +115,6 @@ h1 {
   background-color: #402D1F;
   color: white;
   text-align: center;
-
   left: 441px;
   top: 447px;
   width: 33px;
@@ -137,7 +126,6 @@ h1 {
   background-color: #E1B89B;
   border: 3px solid black;
   border-radius: 35.5px;
-
   left: 359px;
   top: 523px;
   width: 74px;
@@ -147,7 +135,6 @@ h1 {
 
 #nose-covering {
   background-color: #E1B89B;
-
   left: 238px;
   top: 558px;
   width: 315px;
@@ -157,7 +144,6 @@ h1 {
 
 #mouth-interior {
   background-color: black;
-
   left: 326px;
   top: 608px;
   width: 140px;
@@ -168,7 +154,6 @@ h1 {
 #tongue {
   background-color: #942424;
   border-radius: 35.5px;
-
   left: 360px;
   top: 626px;
   width: 71px;
@@ -179,7 +164,6 @@ h1 {
 #left-ear {
   background-color: #E1B89B;
   border-radius: 33px;
-
   left: 182px;
   top: 426px;
   width: 66px;
@@ -190,7 +174,6 @@ h1 {
 #right-ear {
   background-color: #E1B89B;
   border-radius: 33px;
-
   left: 539px;
   top: 426px;
   width: 66px;
