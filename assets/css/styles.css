@@ -127,6 +127,7 @@
   top: 523px;
   width: 74px;
   height: 71px;
+  z-index: 16;
 }
 
 #nose-covering {
@@ -136,6 +137,7 @@
   top: 558px;
   width: 315px;
   height: 50px;
+  z-index: 17;
 }
 
 #mouth-interior {
