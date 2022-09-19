@@ -80,11 +80,15 @@ h1 {
   z-index: 14;
 }
 
+.eyesquares {
+  top: 402px;
+}
+
 #left-eyesquare {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
   left: 291px;
-  top: 402px;
+
   width: 86px;
   height: 115px;
   z-index: 11;
@@ -94,7 +98,7 @@ h1 {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
   left: 415px;
-  top: 402px;
+  
   width: 86px;
   height: 115px;
   z-index: 10;
