@@ -18,3 +18,4 @@ Staaatliches Bauhaus (1919-1933)
 `;
 
 console.log(bauhaus);
+console.log(document.querySelectorAll("p"));
