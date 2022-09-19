@@ -19,3 +19,5 @@ Staaatliches Bauhaus (1919-1933)
 
 console.log(bauhaus);
 console.log(document.querySelectorAll("p"));
+console.log(MouseEvent.clientX);
+console.log(MouseEvent.clientY);
