@@ -60,11 +60,14 @@ h1 {
   z-index: 1;
 }
 
+.eyelids {
+  top: 333px;
+}
+
 #left-eyelid {
   background-color: #E1B89B;
   border-radius: 62px;
   left: 253px;
-  top: 333px;
   width: 124px;
   height: 124px;
   z-index: 15;
@@ -74,7 +77,6 @@ h1 {
   background-color: #E1B89B;
   border-radius: 62px;
   left: 415px;
-  top: 333px;
   width: 124px;
   height: 124px;
   z-index: 14;
@@ -88,7 +90,6 @@ h1 {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
   left: 291px;
-
   width: 86px;
   height: 115px;
   z-index: 11;
@@ -98,7 +99,6 @@ h1 {
   background-color: white;
   box-shadow: 0px 7px 5px 0px grey;
   left: 415px;
-  
   width: 86px;
   height: 115px;
   z-index: 10;
